@@ -1,7 +1,9 @@
 #WAP to check whether the given number is positive or negative. 
 
 n = int(input("Enter n : "))
-if(n >= 0):
+if(n > 0):
     print("positive")
-else:
+elif(n < 0):
     print("negative")
+else:
+    print("zero")
