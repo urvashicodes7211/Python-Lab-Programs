@@ -1,7 +1,5 @@
 #WAP to interchange first and last elements in a list.
 
-# WAP to interchange first and last elements in a list.
-
 list = [1, 2, 3, 4, 5]
 
 temp = list[0]
